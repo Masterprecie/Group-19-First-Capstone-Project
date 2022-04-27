@@ -1,0 +1,2 @@
+# Group-19-First-Capstone-Project
+Team lead  Alabi Ololade Mariam SH-IT-0064483 Third section Assistant Team lead Ikpa Precious SH-IT-0003613 float section Team members Uchechukwu Ekemezie SH-IT-0088588 header section 2nd section Jonathan Edwin SH-IT-0126065 fourth section Eghosa Omuemu SH-IT-0104507 footer section Ojuade Mutiyat SH-IT-0043007  Contributors  Chris Nwobike SH-IT-0008415 Alebiosu Taiwo SH-IT-0017237 Adetayo Ayodeji   SH-IT-0090538 Osita Anyaorah  SH-IT-0078075
